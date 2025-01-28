@@ -23,8 +23,7 @@ Here's how you can summon this app into existence:
 
 1. **Clone the repository** (like pulling a book of spells from a shelf):
    ```bash
-   git clone https://github.com/Cramessar/Sample-Projects/tree/main/octoberprojects/Network%20Monitor
-   cd sample-projects
+   git clone https://github.com/Cramessar/Network_app
    ```
 
 2. **Install dependencies**:
